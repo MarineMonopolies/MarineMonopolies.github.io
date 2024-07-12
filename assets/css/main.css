@@ -2635,6 +2635,12 @@ input, select, textarea {
 						}
 
 		}
+		ul.actions.status {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+		}
 
 /* Icons */
 
